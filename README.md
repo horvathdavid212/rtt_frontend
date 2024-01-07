@@ -6,7 +6,6 @@ Ezekkel a lépésekkel klónozhatod és futtathatod a projektet a helyi gépeden
    
    ```bash
    git clone https://github.com/horvathdavid212/rtt_frontend
-   cd frontend
   ```
 
 ## Docker
