@@ -1,5 +1,5 @@
 # Node.js kép használata
-FROM node:14
+FROM node:16
 
 # Munkakönyvtár beállítása a konténeren belül
 WORKDIR /usr/src/app
